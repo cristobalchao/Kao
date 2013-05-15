@@ -1,4 +1,4 @@
 Kao
 ===
 
-Visit http://kao.herokuapp.com
+Visit http://cristobalchao.com/kao
